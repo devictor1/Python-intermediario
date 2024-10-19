@@ -1,0 +1,3 @@
+# 5) Contar Elementos: Conte quantas vezes um determinado elemento aparece em uma lista.
+listaNomes = ["Muca", "Muriçoca", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson", "Jailson"]
+print(listaNomes.count("Jailson"))
